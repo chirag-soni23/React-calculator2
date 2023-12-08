@@ -1,0 +1,11 @@
+.calculator{
+    border: 1px solid rgba(42, 42, 42, 0.608);
+    width: 200px;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
